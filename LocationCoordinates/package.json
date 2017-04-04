@@ -1,0 +1,13 @@
+{
+  "name": "Copart Coding Test",
+  "version": "1.0.0",
+  "description": "This is a test for auction softwares interview",
+  "main": "Location.js",
+  "dependencies": {
+    "@google/mpas": "0.3.1",
+    "async": "^2.3.0",
+    "csvtojson": "^1.1.4",
+    "mysql": "^2.13.0",
+    "node-geocoder": "^3.16.0"
+  }
+}
